@@ -1,0 +1,81 @@
+  body {
+       background: rgb(246, 247, 248);
+       height: 100vh;
+    }
+    h1 {
+        text-align: center;
+        color: darkblue;
+      }
+      h2 {
+        text-align: center;
+        border: 2px solid darkblue;
+        padding: 15px;
+        font-size: 20px;
+        border-radius: 4px;
+      }
+      .content {
+        max-width: 600;
+        margin: 0 auto;
+        padding: 30px 60px;
+      }
+      img {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        border-radius: 10px;
+      }
+      p {
+        line-height: 1.5;
+        font-size: 12px;
+      }
+      .Learn-more {
+        display: block;
+        margin-top: 10px;
+        text-decoration: none;
+        font-size: 13px;
+        color: rgb(7, 7, 252);
+      }
+      .Learn-more:hover {
+        text-decoration: underline;
+      }
+      .buy-button {
+        background: darkblue;
+        color: white;
+        margin: 0 auto;
+        font-size: 18;
+        padding: 20px 30px;
+        border: none;
+        border-radius: 10px;
+        display: block;
+        margin-bottom: 20px;
+        transition: all 200ms ease-in-out;
+      }
+      .buy-button:hover {
+        cursor: pointer;
+        background: lightblue;
+      }
+      .owner {
+        text-align: center;
+        color: black;
+        display: block;
+        font-family: 'Times New Roman', Times, serif;
+      }
+      .content{
+    box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
+    background-image: linear-gradient(rgb(240, 230, 230), rgb(241, 241, 173), rgb(214, 214, 243));
+    border-radius: 10px;
+    color: black;
+    width: 50%;
+    padding: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    margin: 30px auto;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 80%;
+    }
